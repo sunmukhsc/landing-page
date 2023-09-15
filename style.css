@@ -11,7 +11,8 @@ body {
     display: flex;
     justify-content: space-between;
     background-color: #1F2937;
-    padding: 16px 64px;
+    padding: 16px 150px;
+    gap: 100px;
 }
 
 .logo {
